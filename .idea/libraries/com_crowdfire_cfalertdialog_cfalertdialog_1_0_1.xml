@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.crowdfire.cfalertdialog:cfalertdialog-1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/2083dda543d157c2e8e61d67e4143032973c12ae/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/2083dda543d157c2e8e61d67e4143032973c12ae/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.crowdfire.cfalertdialog/cfalertdialog/1.0.1/920fa7bfd69bc2b0a0983893c72a03a7ade4f883/cfalertdialog-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

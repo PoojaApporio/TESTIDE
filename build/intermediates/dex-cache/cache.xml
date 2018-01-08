@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Current Projects\IDE\IDE User\app\libs\apsalar.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d29125598ea90b5ddbe5bd4d2502eed0dc9916d">
+        <dex dex="E:\Current Projects\IDE\IDE User\app\build\intermediates\transforms\dex\debug\folders\1000\2\apsalar_caab141eabfb3ef3ad2188c6ade37567dfd6f791\classes.dex" />
+    </item>
+
+</items>
